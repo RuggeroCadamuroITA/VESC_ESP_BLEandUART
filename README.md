@@ -29,8 +29,7 @@ Questo permette il monitoraggio in tempo reale, la registrazione dei dati, il co
 
 ## 🎨 Demo (Implementazione Display ESP32-2432S028R)
 
-<img src="./imgs/demo.jpg" alt="Demo Display VESC" width="400" height="400">
-*(Immagine proveniente dal progetto Simple VESC Display)*
+<img src="./imgs/demo.jpg" alt="Demo Display VESC" width="398" height="710">
 
 ## 🛠️ Hardware Utilizzato / Consigliato:
 
@@ -124,3 +123,4 @@ Questo progetto è rilasciato sotto la **Licenza MIT**. Vedi il file `LICENSE` p
 Per qualsiasi domanda, problema o supporto relativo a questo progetto, puoi contattarmi tramite WhatsApp: [http://wa.link/jsfvei](http://wa.link/jsfvei)
 
 ---
+
